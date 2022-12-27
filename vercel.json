@@ -2,19 +2,19 @@
   "routes": [
     {
       "src": "/json/stats.json",
-      "dest": "https://tz.167777.xyz/json/stats.json"
+      "dest": "https://tz.7uu.me/json/stats.json"
     },
     {
       "src": "/detail",
-      "dest": "https://tz.167777.xyz/detail"
+      "dest": "https://tz.7uu.me/detail"
     },
     {
       "src": "/map",
-      "dest": "https://tz.167777.xyz/map"
+      "dest": "https://tz.7uu.me/map"
     },
     {
       "src": "/i",
-      "dest": "https://tz.167777.xyz/i"
+      "dest": "https://tz.7uu.me/i"
     }
   ]
 }
